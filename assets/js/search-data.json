@@ -11,6 +11,17 @@
         
     
   
+    
+        ,"post1": {
+            "title": "Getting Started With Ai",
+            "content": "GETTING STARTED WITH AI/ML . Overview . If you ever wanted to dive into AI/ML, here I will share my ideas on getting started with Machine Learning and Artificial Intelligence. I m going to share what language you should learn, what kind of math background you need, and the process you should be following in terms of what should you learn first, and when you should move from there to get better and better with machine learning at a beginner level. . There are a lot of languages specially for Machine Learning, like R, Python, JavaScript, and Java, but I recommend Python as it is easier to start with. Another reason is that it supports a lot of modules for Artificial Intelligence and Machine Learning. . Next thing is about Mathematics. It scares a lot as everyone is not as good at math. You do not need to be good at math but should know the basic of it. Yeah, understanding of math is a plus. As you should be aware that math is the combination of complicated mathematical algorithmic problems developed by experts. . Let’s discussed about the Steps involved in Machine Learning: . Analyze the problem: | . Identify the area from where you want to solve the problem. Is it worth that the problem needs to be dealt or to provide the solutions? . Data Collection: | . It is the most important to collect the reliable data so that your Machine Learning model can find the correct patterns and eventually helps to determine how accurate our model will be. The outcomes will be irrelevant if we provide incorrect data. . . Data Cleaning: | . If the collected data is not as we desired than we need to perform this operations. Cleaning is the process of removing the unwanted data, filling up the missing values, also sometimes we need to restructure the datasets. . . Choosing a Model: | . A ML model determines the output after running a ML algorithm on collected data. We need to choose a model that should be relevant to the task that we want to perform. Also don’t forget to check if your model is suited for numerical or categorical data and choose it accordingly. . . Training the model: | . It is the most important steps in Machine Learning. In training we pass the prepared and cleaned data in ML model to find the patterns and make prediction on the data. . . Evaluate the Model: | . After training the model, we need to see how the model performs. This is done by testing the model on the previously unseen data. If evaluation is done on the training data, we will not get the accurate measure. If evaluation is done on the testing data, we get the accurate measure of how our model performs. . Making Predictions: | . We can use our model on unseen data to make predictions more accurate. . [Image Courtesy: www.simplilearn.com] . Conclusions . In this tutorial, we learnt about how to get start with AI and ML and the steps that are required for the machine learning. .",
+            "url": "https://kuxall.github.io/blog/2020/01/28/GETTING-STARTED-WITH-AI.html",
+            "relUrl": "/2020/01/28/GETTING-STARTED-WITH-AI.html",
+            "date": " • Jan 28, 2020"
+        }
+        
+    
+  
 
   
   
